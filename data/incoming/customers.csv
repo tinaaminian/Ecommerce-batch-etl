@@ -1,0 +1,16 @@
+customer_id,first_name,last_name,email,country,created_at
+C001,Tina,Aminian,tina@example.com,Canada,2025-01-15
+C002,John,Smith,john.smith@example.com,Canada,2025-02-20
+C003,Sarah,Wilson,SARAH.WILSON@EXAMPLE.COM,USA,2025-03-12
+C004,Michael,Brown,michael.brown@example.com,canada,2025-04-05
+C005,Emma,Davis, emma.davis@example.com ,UK,2025-05-18
+C006,Daniel,Miller,daniel.miller@example.com,USA,2025-06-22
+C007,Olivia,Anderson,olivia.anderson@example.com,CANADA,2025-07-10
+C008,James,Taylor,,Canada,2025-08-01
+C009,Sophia,Thomas,sophia.thomas@example.com,USA,bad_date
+C010,William,Moore,william.moore@example.com,Canada,2025-09-14
+C004,Michael,Brown,michael.brown@example.com,canada,2025-04-05
+,Lucas,Martin,lucas.martin@example.com,Canada,2025-10-01
+C011,  Ava  ,White,ava.white@example.com, Canada ,2025-10-15
+C012,Ethan,Harris,ethan.harris@example.com,USA,2025-11-03
+C013,Mia,Clark,mia.clark@example.com,Canada,

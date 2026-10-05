@@ -1,0 +1,19 @@
+product_id,product_name,category,unit_price,active
+P001,Laptop,Electronics,1299.99,true
+P002,Wireless Mouse,Electronics,29.99,true
+P003,Mechanical Keyboard,Electronics,89.99,true
+P004,Office Chair,Furniture,249.50,true
+P005,Standing Desk,Furniture,499.99,true
+P006,Coffee Maker,Home,79.99,true
+P007,Blender,Home,59.50,true
+P008,Running Shoes,Sports,119.99,true
+P009,Yoga Mat,Sports,35.00,true
+P010,Backpack,Accessories,69.99,true
+P011,USB-C Cable, electronics ,15.99,true
+P012,Desk Lamp,Furniture,INVALID_PRICE,true
+P013,Water Bottle,Sports,24.99,TRUE
+P014,Old Headphones,Electronics,49.99,false
+P015,Notebook,Stationery,8.99,
+P005,Standing Desk,Furniture,499.99,true
+,Webcam,Electronics,89.99,true
+P016,  Monitor Stand  ,Furniture,45.00,true
