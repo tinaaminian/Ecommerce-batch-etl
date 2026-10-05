@@ -1,0 +1,24 @@
+services:
+
+  db:
+    image: postgres:18
+    container_name: ecommerce_etl_postgres
+
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+
+    ports:
+      - "5434:5432"
+
+    volumes:
+      - postgres_data:/var/lib/postgres
+
+volumes:
+  postgres_data:
+
+
+
+
+
